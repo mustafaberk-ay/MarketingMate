@@ -20,4 +20,5 @@
 ### client Project
 6. Install the required packages by running `npm install`
 7. Run the project by running `npm run dev`
+
 **BOOM!** Marketing Mate should running now!
