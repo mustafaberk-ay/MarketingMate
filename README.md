@@ -15,7 +15,6 @@
 ### api Project
 3. Install required packages by running `yarn install`
 4. Run the project by running `yarn dev`
-
 5. Move back to the client project's directory by running `cd ../client`
 
 ### client Project
