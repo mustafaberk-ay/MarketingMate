@@ -1,0 +1,9 @@
+api/node_modules
+api/.env
+
+client/node_modules
+
+
+*.log
+*.tmp
+.vscode/

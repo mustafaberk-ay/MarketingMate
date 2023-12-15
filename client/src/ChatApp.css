@@ -1,0 +1,36 @@
+/* ChatApp.css */
+
+.chat-container {
+  display: flex;
+  flex-direction: column;
+  height: 97vh;
+}
+
+.message-container {
+  flex-grow: 1;
+  overflow-y: auto;
+  padding: 10px;
+}
+
+.user-message {
+  background-color: #e1f5fe;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  align-self: flex-end;
+}
+
+.assistant-message {
+  background-color: #f3f3f3;
+  margin-bottom: 8px;
+  padding: 8px;
+  border-radius: 8px;
+  align-self: flex-start;
+}
+
+input {
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-top: 10px;
+}
